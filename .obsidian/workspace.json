@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "278b8c127c64a9c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4abfea561c754e5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e29eab8a52d1aab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d24f0de83c2f1da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdceffb20bdd632c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b8bad72057f3c7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f3ee860c0c6f157",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3138bb96bb1e5c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a62bc2fd68c75e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2c7009645c16446",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8ce4747c9fd6828",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "6b3f406ad9e12989",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0873973fee321d16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec0d31c8d651d263",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e29eab8a52d1aab4",
+  "lastOpenFiles": [
+    "Pasted image 20240103170024.png",
+    "未命名.md",
+    "Obsidian使用笔记.md",
+    "被链接的笔记1.md",
+    "ob笔记",
+    "被链接的笔记1^.md"
+  ]
+}
